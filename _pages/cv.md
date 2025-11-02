@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "简历"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-教育经历
+学业
 =====
 * B.Sc. 浙江大学 2026-2030 resp.

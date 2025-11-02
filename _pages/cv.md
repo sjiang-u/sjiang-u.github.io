@@ -15,5 +15,5 @@ Education
 
 Skills
 =====
-Languages:\ Mandarin - Mother language\ English - CET4\ Français - B1\ Deutsch - Basic\
+Languages: Mandarin - Mother language\ English - CET4\ Français - B1\ Deutsch - Basic\
 Coding: C++, Python, Go, LaTeX

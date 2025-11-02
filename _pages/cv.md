@@ -11,4 +11,4 @@ redirect_from:
 
 教育经历
 =====
-* B.S. on going, Zhejiang University, 2026-2030(resp.)
+* B.Sc. 浙江大学 2026-2030 resp.

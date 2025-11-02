@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "江森的个人主页"
 title_separator          : "-"
 name                     : &name "江森"
-description              : &description "数学系生本科生"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "数学系本科生"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sjiang-u.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,8 +27,8 @@ author:
   name             : "江森"
   pronouns         : # 他/他们"  
   bio              : "数学系本科生"
-  location         : "中国大陆 浙江省 杭州"
-  employer         : "浙江大学"
+  location         : "中国大陆 浙江省 杭州市"
+  employer         : "杜伊斯堡-埃森大学"
   uri              : # URL
   email            : "sjiang07@outlook.com" 
 

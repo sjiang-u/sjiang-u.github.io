@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 =====
-* B.Sc. 浙江大学 2026-2030 - 预期
+* B.Sc. Univer 2026-2029
 
 Skills
 =====
-Languages: Mandarin - Mother language\ English - CET4\ Français - B1\ Deutsch - Basic\
+Languages: Mandarin, English CET4, Français B1, Deutsch B2\
 Coding: C++, Python, Golang, LaTeX

@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 =====
-* B.Sc. 浙江大学 2026-2030
+* B.Sc. 浙江大学 2026-2030 - 预期
 
 Skills
 =====

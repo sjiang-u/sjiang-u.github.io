@@ -13,7 +13,7 @@ Education
 =====
 * B.Sc. 浙江大学 2026-2030
 
-Skill
+Skills
 =====
-Languages: Mandarin(Mother) English(CET4) Français(B1) Deutsch(Fluent)
+Languages: Mandarin English(CET4) Français(B1) Deutsch(Fluent)\
 Code: C++, Python, Go, LaTeX

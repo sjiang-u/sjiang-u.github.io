@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-=
+**Education**
 * B.Sc. *-on going* Universität Duisburg-Essen 2026-2029
 
-Skills
-=
+**Skills**
 Languages: Mandarin, English CET4, Français B1, Deutsch B2\
 Coding: C++, Python, Golang, LaTeX, Mathlab, Lean

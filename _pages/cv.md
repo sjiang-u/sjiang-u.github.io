@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Birth
+=
+*  Jul.7 2007 in Shandong, Mainland China
+
 **Education**
 =
 * B.Sc.  Universität Duisburg-Essen 2026-2029 *on going*

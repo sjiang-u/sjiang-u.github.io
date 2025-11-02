@@ -15,5 +15,5 @@ Education
 
 Skills
 =====
-Languages: Mandarin English(CET4) Français(B1) Deutsch(Fluent)\
-Code: C++, Python, Go, LaTeX
+Languages:\ Mandarin - Mother language\ English - CET4\ Français - B1\ Deutsch - Basic\
+Coding: C++, Python, Go, LaTeX

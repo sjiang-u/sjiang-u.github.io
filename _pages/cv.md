@@ -24,8 +24,8 @@ Birth
 
 Songs
 =
-* Il aurrait suffi *Le rouge et le noir, in French*
-* Les maudits mots d'amour *Le rouge et le noir, in French*
-* Wenn ich tanzen will *Elizabeth, in Deutsch*
+* Il aurrait suffi, *Le rouge et le noir, in French*
+* Les maudits mots d'amour, *Le rouge et le noir, in French*
+* Wenn ich tanzen will, *Elizabeth, in Deutsch*
 
 

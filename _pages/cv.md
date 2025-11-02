@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 =====
-* B.Sc. Univer 2026-2029
+* B.Sc. Universität Dusiburg-Essen 2026-2029
 
 Skills
 =====
 Languages: Mandarin, English CET4, Français B1, Deutsch B2\
-Coding: C++, Python, Golang, LaTeX
+Coding: C++, Python, Golang, LaTeX, Mathlab, Lean

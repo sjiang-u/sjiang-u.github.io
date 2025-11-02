@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "个人陈述"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,11 +13,11 @@ Birth
 =
 *  Jul.7 2007 in Shandong, Mainland China
 
-**Education**
+Education
 =
 * B.Sc.  Universität Duisburg-Essen 2026-2029 *on going*
 
-**Skills**
+Skills
 =
 * Languages: Mandarin *Native*, English *CET4*, Français *B1*, Deutsch *B2*
 * Coding: C++, Python, Golang, LaTeX, Mathlab, Lean4

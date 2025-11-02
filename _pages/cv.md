@@ -15,5 +15,5 @@ redirect_from:
 
 **Skills**
 =
-* Languages: Mandarin Native, English CET4, Français B1, Deutsch B2
-* Coding: C++, Python, Golang, LaTeX, Mathlab, Lean
+* Languages: Mandarin *Native*, English *CET4*, Français *B1*, Deutsch *B2*
+* Coding: C++, Python, Golang, LaTeX, Mathlab, Lean4

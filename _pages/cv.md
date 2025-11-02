@@ -21,3 +21,11 @@ Birth
 =
 * Languages: Mandarin *Native*, English *CET4*, Français *B1*, Deutsch *B2*
 * Coding: C++, Python, Golang, LaTeX, Mathlab, Lean4
+
+Songs
+=
+* Il aurrait suffi *Le rouge et le noir, in French*
+* Les maudits mots d'amour *Le rouge et le noir, in French*
+* Wenn ich tanzen will *Elizabeth, in Deutsch*
+
+

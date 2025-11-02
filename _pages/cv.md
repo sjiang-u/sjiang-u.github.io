@@ -11,7 +11,7 @@ redirect_from:
 
 **Education**
 =
-* B.Sc. *-on going* Universität Duisburg-Essen 2026-2029
+* B.Sc.  Universität Duisburg-Essen 2026-2029 *on going*
 
 **Skills**
 =

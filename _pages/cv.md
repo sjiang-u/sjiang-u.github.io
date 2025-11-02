@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: /个人简历/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume

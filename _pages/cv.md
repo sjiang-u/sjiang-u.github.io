@@ -26,6 +26,9 @@ redirect_from:
 * 七里香 ~~你等等别笑我真会啊~~
 * Il aurrait suffi, *Le rouge et le noir, in French*
 * Les maudits mots d'amour, *Le rouge et le noir, in French*
+* T'aimer est une galère, *Molière, in French*
+* Aujourd'hui tout va bien, *Molière, in French*
 * Wenn ich tanzen will, *Elizabeth, in Deutsch*
+* Ich gehör nur mir, *Elizabeth, in Deutsch*
 
 

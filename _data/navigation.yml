@@ -11,5 +11,8 @@ main:
   
   - title: "CV"
     url: /cv/
+
+  - title: "政治"
+    url: /politics/
     
 

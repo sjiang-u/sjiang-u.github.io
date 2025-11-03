@@ -16,7 +16,7 @@ main:
     url: /paper/
 
   - title: "会议"
-    url: /notes/
+    url: /smr/
 
   - title: "博客"
     url: /post/

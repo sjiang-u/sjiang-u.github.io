@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-家母何时生下孽障我
+啥时候蹦出来的
 =
 *  2007年7月7日 中国大陆 山东省
 
-孩子毕竟是读过点书
+读过点书
 =
 * B.Sc. Sorbonne Université *2026 - 2029*
 

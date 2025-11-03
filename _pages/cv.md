@@ -15,7 +15,7 @@ redirect_from:
 
 孩子毕竟是读过点书
 =
-* B.Sc. Sorbonne Université 2026-2029 *on going*
+* B.Sc. Sorbonne Université *2026 - 2029*
 
 ~~灵长类动物才艺展示~~
 =

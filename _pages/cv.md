@@ -21,6 +21,7 @@ redirect_from:
 =
 * Languages: Mandarin *Native*, English *CET4*, Français *B2*
 * Coding: C++, Python, Golang, LaTeX, Matlab, Lean 4
+* 大江大海江大海
 * Il aurrait suffi, *Le rouge et le noir, in French*
 * Les maudits mots d'amour, *Le rouge et le noir, in French*
 * Wenn ich tanzen will, *Elizabeth, in Deutsch*

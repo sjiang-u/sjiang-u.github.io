@@ -14,7 +14,7 @@ redirect_from:
 研习陈述
 =
 * 主要研习算术几何，注重自守形式和伽罗瓦表示之间的联系
-* 广泛地说，我对 *p* 进朗兰兹纲领颇感兴趣。得益于凝聚集的发展，在 Boxer-Calegari-Gee-Pilloni 等人的工作中，已经巧妙运用固态几何的技术。我想进一步运用凝聚态的观点理解 *p* 进朗兰兹纲领：Fontaine-Mazur Conjecture, locally analytic vectors... 以及局部朗兰兹的几何化/范畴化：Emerton、Gee、Hellman 与 Xinwen Zhu 的联合工作...
+* 广泛地说，我对 *p* 进朗兰兹纲领颇感兴趣。得益于凝聚集的发展，在 Boxer - Calegari - Gee - Pilloni 等人的工作中，已经巧妙运用固态几何的技术。我想进一步运用凝聚态的观点理解 *p* 进朗兰兹纲领：Fontaine - Mazur Conjecture, locally analytic vectors... 以及局部朗兰兹的几何化/范畴化：Emerton、Gee、Hellman 与 Xinwen Zhu 的联合工作...
 * 最近，对概率论与统计物理有新的兴趣，我正在记录一份渗流理论的读书报告
 
 语言与文化

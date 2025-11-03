@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-从石头里蹦出来这件事
+家母何时生下孽障我
 =
 *  2007年7月7日，中国大陆 山东省
 
-读过点书
+孩子读过点书
 =
 * B.Sc.  Universität Duisburg-Essen 2026-2029 *on going*
 
-~~才艺展示~~
+~~灵长类才艺展示~~
 =
 * Languages: Mandarin *Native*, English *CET4*, Français *B1*, Deutsch *B2*
 * Coding: C++, Python, Golang, LaTeX, Matlab, Lean 4

@@ -12,6 +12,15 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "文章"
+    url: /paper/
+
+  - title: "会议"
+    url: /notes/
+
+  - title: "博客"
+    url: /post/
+
   - title: "政治"
     url: /politics/
     

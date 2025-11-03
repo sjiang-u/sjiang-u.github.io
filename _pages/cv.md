@@ -21,7 +21,9 @@ redirect_from:
 =
 * Languages: Mandarin *Native*, English *CET4*, Français *B2*
 * Coding: C++, Python, Golang, LaTeX, Matlab, Lean 4
-* 大江大海江大海 ~~手动拍桌~~
+* 大江大海江大海 ~~手动筷子拍桌~~
+* 心雨 ~~只是有一点点跑调~~
+* 七里香 ~~你等等别笑我真会啊~~
 * Il aurrait suffi, *Le rouge et le noir, in French*
 * Les maudits mots d'amour, *Le rouge et le noir, in French*
 * Wenn ich tanzen will, *Elizabeth, in Deutsch*

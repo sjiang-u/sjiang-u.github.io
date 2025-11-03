@@ -13,7 +13,7 @@ redirect_from:
 =
 *  2007年7月7日，中国大陆 山东省
 
-孩子读过点书
+孩子毕竟是读过点书
 =
 * B.Sc.  Universität Duisburg-Essen 2026-2029 *on going*
 

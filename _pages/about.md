@@ -18,7 +18,7 @@ redirect_from:
 * 广泛地说，我对 *p* 进局部朗兰兹纲领和 *p* 进 Hodge 理论颇感兴趣
 * 得益于凝聚集的发展，在 BCGP25 的工作中，巧妙运用了固态几何的技术
 * 我想进一步运用凝聚集的观点理解 *p* 进朗兰兹纲领，以及 Reciproncity laws 的研究
-* 以及局部朗兰兹的几何化/范畴化：Emerton、Gee、Hellman 与 Xinwen Zhu 的联合工作...
+* 学习局部朗兰兹的几何化/范畴化：Emerton、Gee、Hellman 与 Xinwen Zhu 的联合工作...
 * 最近，对概率论与统计物理有新的兴趣，我正在记录一份渗流理论的读书报告
 
 语言与文化

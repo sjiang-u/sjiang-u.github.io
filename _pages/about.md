@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sen Jiang's Personal Homepage"
+title: "Sen Jiang"
 author_profile: true
 redirect_from: 
   - /about/
